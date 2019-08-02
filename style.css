@@ -1,0 +1,138 @@
+.bottom {
+    margin: 0, 0, 0, 0;
+    background-image: url('assets/blizzard\ pic.PNG');
+    background-repeat: no-repeat;
+    height: 755px;
+    width: auto;
+}
+
+.carousel-control-prev {
+    position: absolute;
+    z-index: 2;
+}
+
+.navigation_bar {
+    color: gainsboro;
+    background: none;
+    height: 50px;
+    position: absolute;
+    z-index: 1;
+    /* filter: blur(3px); */
+}
+
+.navigation_bar p{
+    margin: 15px 2px 15px 2px;
+    display: inline;
+}
+
+.navigation_right_side {
+    display: inline;
+}
+
+.carousel\ slide {
+    height: 100vh;
+    width: auto;
+}
+
+
+.language {
+    text-align: center;
+}
+
+.game_logo {
+    margin: 75px;
+}
+.top{
+ /* background-image: url("assets/game\ top.PNG"); */
+ height: auto;
+}
+
+.text {
+    color: white;
+    font-size: 50px;
+    line-height: 15px;
+    /* font-family:  */
+}
+
+
+#carouselExampleControls {
+    height: 100vh;
+}
+
+
+.carousel-inner img {
+    transform: scale(1.5);
+    height: 100%;
+    width: 100%;
+}
+
+.carousel-item {
+    height: 100vh;
+    transform: translateX(-50px) translateY(130px);
+    /* object-fit: contain; */
+}
+
+.Games {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #092F5E;
+}
+.gamesHeader {
+    display: flex;
+    flex-direction: row;
+    color: #00AEFF;
+}
+
+.gamePic {
+    width: 167px;
+    height: 200px; 
+}
+
+.gamesContent {
+    padding-left: 40px;
+}
+
+.gameCard {
+    margin-left: 20px;
+    padding: 20px 0;
+}
+
+.gameCardFirst {
+    padding: 20px 0;
+}
+
+.gameCards {
+    display: flex;
+    flex-direction: row;
+}
+
+#gamesTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 30px;
+}
+
+.oneLiner {
+    background-color: #092F5E;
+    padding: 15px;
+    border: 1px solid #00AEFF;
+    border-left: none;
+    border-right: none;
+}
+
+.topStories {
+    padding: 60px;
+    background-color: #092F5E;
+}
+
+.logo {
+    /* position: absolute;
+    z-index: 1;
+    : 500; */
+    height: 10px;
+    width: auto;
+}
+
+.art {
+    background-image: url("assets/digital_art.jpg");
+}
